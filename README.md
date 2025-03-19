@@ -19,13 +19,13 @@ This script automates the installation of Docker and WG-Easy on Ubuntu. It handl
 2.  **Make the script executable:**
 
     ```bash
-    chmod +x install_wg_easy.sh
+    chmod +x vpn_install.sh
     ```
 
 3.  **Run the script:**
 
     ```bash
-    sudo ./install_wg_easy.sh
+    sudo ./vpn_install.sh
     ```
 
     The script will prompt you to enter a password for WG-Easy.
